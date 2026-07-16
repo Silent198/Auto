@@ -10,9 +10,7 @@
   "user_data": {
     "8783031728": {
       "active": true,
-      "allowed_groups": [
-        -1003502733196
-      ],
+      "allowed_groups": [],
       "timeout": 15,
       "delay": 0.0,
       "skip_rarity": [
