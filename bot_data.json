@@ -33,7 +33,9 @@
     },
     "8242329796": {
       "active": true,
-      "allowed_groups": [],
+      "allowed_groups": [
+        -1003411948956
+      ],
       "timeout": 15,
       "delay": 1,
       "skip_rarity": []
