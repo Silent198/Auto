@@ -16,6 +16,15 @@
       "timeout": 15,
       "delay": 1,
       "skip_rarity": []
+    },
+    "5376101564": {
+      "active": true,
+      "allowed_groups": [
+        -1003502733196
+      ],
+      "timeout": 15,
+      "delay": 1,
+      "skip_rarity": []
     }
   }
 }
