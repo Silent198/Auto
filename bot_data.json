@@ -1,5 +1,19 @@
 {
-  "admins": [5376101564],
-  "users": {},
-  "user_data": {}
+  "admins": [
+    5376101564
+  ],
+  "users": {
+    "8783031728": {
+      "session": "BQIEpbwAJ6Lpt6_zD92aQ39Lki1BZ7iFqr_X5Etv9wfYvXGeiFYEe_FVnHL_S8QOWLDCW6yeWHrg8_vLh4do7hFiVqr5wGBj4CIz8P_BnP95n4u0z30IR-9uyUDlgeVKQK-P6SOjGVKWw5WkT3G_PzrUF3hkLtzuoyiV6tN2BIVPxvmstg9d71ApHp1vfnKnt5Lmzg3DuVnuV2MoUCTUHslYEAGZFO46A1XS2D5wksFwT8DsI3AZYqkb9ZrvGcIAhBUL2NIjV7v8fjv76JbgfO269Vp4-8z1t0kmc6n5B-YxjN4nzUNvP-was112uyc5Ls-91Km5XwE12EjcB7JiFQYIS2JorAAAAAILgm2wAA"
+    }
+  },
+  "user_data": {
+    "8783031728": {
+      "active": true,
+      "allowed_groups": [],
+      "timeout": 15,
+      "delay": 1,
+      "skip_rarity": []
+    }
+  }
 }
