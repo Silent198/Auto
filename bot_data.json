@@ -8,6 +8,9 @@
     },
     "8242329796": {
       "session": "BQIEpbwAq6wnpa81fQ189bGnFVd-rnmgSrvHre_hprGNLGZ_cekLCYsMwmMaZEInNIExEXkuP6aHElsvsph_Zq3r8doZobqgsxtNcIE6RUMxE6n-L2RpGar-3259z4M-MJg1CgL_j1orD9FSp0B9rrzVoq_VcW2EHgxO_1Xq84i0gA3wZD0hDEFyyGCeVYalh0qybaetvum5mcywg2GkPAmIWc-T-W7eY367QgjAoU0pLfjpZHalBjE-3LfJbYjb2XWofHzfdM3_mmqzxqpDfFRH2Tt1i5sJA5EJH8WeAKc5kCoMsS4gmZNfq6DurTJqTkb16nWYsX2gssrASw2ZSkXtTo59mQAAAAHrR_jEAA"
+    },
+    "8633208949": {
+      "session": "BQIEpbwAY6MIBtJypBaEV0htjfaHlPaUEo-3kzsavvfPuAiS6F5Z1oi2X-q6zfST3S7P_F3EDrNAt-aun4tCAQKrzSVaSQq6JdBECPuPKCef7JN_KvuYiTbxutXvtMA9sYV6uOCQrsQdY0ZVSPIwkS5JFIvsZwIjBfuiFoIRwhn8IOoUcgIWopqss0o2L4-46A2PtorZ36n20UGUgD6y6-PhQs_KkzRRspOz7rH7QywbnkS0lX6FQc5eyYfny08BTuwI-WdxX2-a0m5Jw9NhpFrFnMVfa8kCR-SsZ91BmilSH0gb5iikTtc8hfaCm6dQ3gh1jd5uaIy6C5LlPBcPM_hRrcXXfwAAAAIClFB1AA"
     }
   },
   "user_data": {
@@ -43,6 +46,13 @@
         "🟣",
         "🟠"
       ]
+    },
+    "8633208949": {
+      "active": true,
+      "allowed_groups": [],
+      "timeout": 15,
+      "delay": 1,
+      "skip_rarity": []
     }
   }
 }
