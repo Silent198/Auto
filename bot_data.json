@@ -5,6 +5,9 @@
   "users": {
     "8783031728": {
       "session": "BQIEpbwAJ6Lpt6_zD92aQ39Lki1BZ7iFqr_X5Etv9wfYvXGeiFYEe_FVnHL_S8QOWLDCW6yeWHrg8_vLh4do7hFiVqr5wGBj4CIz8P_BnP95n4u0z30IR-9uyUDlgeVKQK-P6SOjGVKWw5WkT3G_PzrUF3hkLtzuoyiV6tN2BIVPxvmstg9d71ApHp1vfnKnt5Lmzg3DuVnuV2MoUCTUHslYEAGZFO46A1XS2D5wksFwT8DsI3AZYqkb9ZrvGcIAhBUL2NIjV7v8fjv76JbgfO269Vp4-8z1t0kmc6n5B-YxjN4nzUNvP-was112uyc5Ls-91Km5XwE12EjcB7JiFQYIS2JorAAAAAILgm2wAA"
+    },
+    "8242329796": {
+      "session": "BQIEpbwAq6wnpa81fQ189bGnFVd-rnmgSrvHre_hprGNLGZ_cekLCYsMwmMaZEInNIExEXkuP6aHElsvsph_Zq3r8doZobqgsxtNcIE6RUMxE6n-L2RpGar-3259z4M-MJg1CgL_j1orD9FSp0B9rrzVoq_VcW2EHgxO_1Xq84i0gA3wZD0hDEFyyGCeVYalh0qybaetvum5mcywg2GkPAmIWc-T-W7eY367QgjAoU0pLfjpZHalBjE-3LfJbYjb2XWofHzfdM3_mmqzxqpDfFRH2Tt1i5sJA5EJH8WeAKc5kCoMsS4gmZNfq6DurTJqTkb16nWYsX2gssrASw2ZSkXtTo59mQAAAAHrR_jEAA"
     }
   },
   "user_data": {
@@ -24,6 +27,13 @@
       "allowed_groups": [
         -1003502733196
       ],
+      "timeout": 15,
+      "delay": 1,
+      "skip_rarity": []
+    },
+    "8242329796": {
+      "active": true,
+      "allowed_groups": [],
       "timeout": 15,
       "delay": 1,
       "skip_rarity": []
