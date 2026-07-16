@@ -38,7 +38,9 @@
       ],
       "timeout": 15,
       "delay": 1,
-      "skip_rarity": []
+      "skip_rarity": [
+        "🔵"
+      ]
     }
   }
 }
