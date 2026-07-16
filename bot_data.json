@@ -51,7 +51,7 @@
       "active": true,
       "allowed_groups": [],
       "timeout": 15,
-      "delay": 1,
+      "delay": 3.0,
       "skip_rarity": []
     }
   }
