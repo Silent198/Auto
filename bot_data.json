@@ -52,7 +52,9 @@
       "allowed_groups": [],
       "timeout": 15,
       "delay": 3.0,
-      "skip_rarity": []
+      "skip_rarity": [
+        "🔵"
+      ]
     }
   }
 }
