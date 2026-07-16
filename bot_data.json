@@ -16,7 +16,9 @@
       ],
       "timeout": 15,
       "delay": 0.0,
-      "skip_rarity": []
+      "skip_rarity": [
+        "🔵"
+      ]
     },
     "5376101564": {
       "active": true,
