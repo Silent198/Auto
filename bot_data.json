@@ -11,6 +11,9 @@
     },
     "8633208949": {
       "session": "BQIEpbwAY6MIBtJypBaEV0htjfaHlPaUEo-3kzsavvfPuAiS6F5Z1oi2X-q6zfST3S7P_F3EDrNAt-aun4tCAQKrzSVaSQq6JdBECPuPKCef7JN_KvuYiTbxutXvtMA9sYV6uOCQrsQdY0ZVSPIwkS5JFIvsZwIjBfuiFoIRwhn8IOoUcgIWopqss0o2L4-46A2PtorZ36n20UGUgD6y6-PhQs_KkzRRspOz7rH7QywbnkS0lX6FQc5eyYfny08BTuwI-WdxX2-a0m5Jw9NhpFrFnMVfa8kCR-SsZ91BmilSH0gb5iikTtc8hfaCm6dQ3gh1jd5uaIy6C5LlPBcPM_hRrcXXfwAAAAIClFB1AA"
+    },
+    "8159586510": {
+      "session": "BQIEpbwAdYWWXg719H4F6p4G9W7i6uaOBadYBKSQMTlnHdJm7CvBcsf094KIDUwgHw5mvIBGsvAGxe2qnVdJl9KLUMsHcOeeHbImcksz5ltO1mrq-7QH_bHDCSILmadIMO1dEykmHPVkorhYTshF7qNlEVKfjMwb97ZPLHgHHPHm3yyKN13nxC-dCJIQRc1BBQb5yernz1sgWHuyGc0ri9v3T9dcq7AmLuhmiOZyFPNIf4BELt6x1WCynTL__xfZaSFIsheGcDbxVxp4Spewvn2Z44XSOieqoa8u0D_pnhEHgolMa4xJnL4ob1HD6nrr4HMHHXX90YNmhzJPrNU7pH0KLDrX9gAAAAHmWWjOAA"
     }
   },
   "user_data": {
@@ -62,6 +65,13 @@
         "🟠",
         "🟣"
       ]
+    },
+    "8159586510": {
+      "active": true,
+      "allowed_groups": [],
+      "timeout": 15,
+      "delay": 1,
+      "skip_rarity": []
     }
   }
 }
