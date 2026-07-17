@@ -72,7 +72,7 @@
         -1003819840013
       ],
       "timeout": 15,
-      "delay": 1,
+      "delay": 2.0,
       "skip_rarity": []
     }
   }
