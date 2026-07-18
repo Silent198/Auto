@@ -29,7 +29,7 @@
       ]
     },
     "5376101564": {
-      "active": false,
+      "active": true,
       "allowed_groups": [
         -1003502733196
       ],
@@ -68,7 +68,7 @@
         "🟠",
         "🟣"
       ],
-      "enabled": true
+      "enabled": false
     },
     "8159586510": {
       "active": true,
@@ -91,7 +91,7 @@
         "🟠",
         "🟡"
       ],
-      "enabled": true
+      "enabled": false
     }
   }
 }
