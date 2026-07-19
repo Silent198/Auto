@@ -92,5 +92,6 @@
       ],
       "enabled": false
     }
-  }
+  },
+  "blocked_groups": []
 }
