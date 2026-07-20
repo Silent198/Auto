@@ -72,7 +72,7 @@
       "enabled": false
     },
     "8159586510": {
-      "active": false,
+      "active": true,
       "allowed_groups": [
         -1003819840013,
         -1003583109345,
