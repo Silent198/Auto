@@ -94,7 +94,7 @@
         "🟠",
         "🟡"
       ],
-      "enabled": false
+      "enabled": true
     }
   },
   "blocked_groups": []
