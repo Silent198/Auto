@@ -99,5 +99,7 @@
       "enabled": true
     }
   },
-  "blocked_groups": []
+  "blocked_groups": [
+    -1003760110058
+  ]
 }
