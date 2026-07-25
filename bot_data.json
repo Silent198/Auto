@@ -112,7 +112,8 @@
       "enabled": true,
       "active": false,
       "allowed_groups": [
-        -1003975831228
+        -1003975831228,
+        -1003820775782
       ],
       "timeout": 15,
       "delay": 4.0,
