@@ -111,7 +111,9 @@
     "6837560414": {
       "enabled": true,
       "active": false,
-      "allowed_groups": [],
+      "allowed_groups": [
+        -1003975831228
+      ],
       "timeout": 15,
       "delay": 4.0,
       "skip_rarity": []
