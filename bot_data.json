@@ -14,8 +14,7 @@
       "session": "BQIEpbwAq6wnpa81fQ189bGnFVd-rnmgSrvHre_hprGNLGZ_cekLCYsMwmMaZEInNIExEXkuP6aHElsvsph_Zq3r8doZobqgsxtNcIE6RUMxE6n-L2RpGar-3259z4M-MJg1CgL_j1orD9FSp0B9rrzVoq_VcW2EHgxO_1Xq84i0gA3wZD0hDEFyyGCeVYalh0qybaetvum5mcywg2GkPAmIWc-T-W7eY367QgjAoU0pLfjpZHalBjE-3LfJbYjb2XWofHzfdM3_mmqzxqpDfFRH2Tt1i5sJA5EJH8WeAKc5kCoMsS4gmZNfq6DurTJqTkb16nWYsX2gssrASw2ZSkXtTo59mQAAAAHrR_jEAA"
     },
     "6837560414": {
-      "session":
-"BQIEpbwAvLG_Hfy9aomfnutKfh1pSKpsTYe0DYEvlcYbDpEgL9KfBsFDXJlXEdJ7wixgo3ShK0dnKl9vGpcAuRtLjAyEEvw1VdqWORtFBsvtCC75QE1zwPKRfvJaxIN4RXntpaKA73AZJCLeZJOzIk2bMmLCdz8e4m7HzWYGvCKoKA86fGigZLlGAj9-ca54p0qxNqcn88TF49oHJ5nv-cpmdIuqa0kSKTsRwpXnBZ6RbGwb3aZWqpVOiwUj3QnEsMdH3G2T_K8yFCSFQbgYLh5wiv7GD5SkC7zfRliwsEeb2boEODocyq_-pstA_U0Vxjidusg9f7FBQYviab0-Ul72TsJ2DgAAAAGXjOReAA"
+      "session": "BQIEpbwAvLG_Hfy9aomfnutKfh1pSKpsTYe0DYEvlcYbDpEgL9KfBsFDXJlXEdJ7wixgo3ShK0dnKl9vGpcAuRtLjAyEEvw1VdqWORtFBsvtCC75QE1zwPKRfvJaxIN4RXntpaKA73AZJCLeZJOzIk2bMmLCdz8e4m7HzWYGvCKoKA86fGigZLlGAj9-ca54p0qxNqcn88TF49oHJ5nv-cpmdIuqa0kSKTsRwpXnBZ6RbGwb3aZWqpVOiwUj3QnEsMdH3G2T_K8yFCSFQbgYLh5wiv7GD5SkC7zfRliwsEeb2boEODocyq_-pstA_U0Vxjidusg9f7FBQYviab0-Ul72TsJ2DgAAAAGXjOReAA"
     },
     "8633208949": {
       "session": "BQIEpbwAY6MIBtJypBaEV0htjfaHlPaUEo-3kzsavvfPuAiS6F5Z1oi2X-q6zfST3S7P_F3EDrNAt-aun4tCAQKrzSVaSQq6JdBECPuPKCef7JN_KvuYiTbxutXvtMA9sYV6uOCQrsQdY0ZVSPIwkS5JFIvsZwIjBfuiFoIRwhn8IOoUcgIWopqss0o2L4-46A2PtorZ36n20UGUgD6y6-PhQs_KkzRRspOz7rH7QywbnkS0lX6FQc5eyYfny08BTuwI-WdxX2-a0m5Jw9NhpFrFnMVfa8kCR-SsZ91BmilSH0gb5iikTtc8hfaCm6dQ3gh1jd5uaIy6C5LlPBcPM_hRrcXXfwAAAAIClFB1AA"
@@ -108,6 +107,14 @@
         "⚜️"
       ],
       "enabled": true
+    },
+    "6837560414": {
+      "enabled": true,
+      "active": true,
+      "allowed_groups": [],
+      "timeout": 15,
+      "delay": 4.0,
+      "skip_rarity": []
     }
   },
   "blocked_groups": [
