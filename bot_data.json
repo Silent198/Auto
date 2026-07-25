@@ -116,7 +116,9 @@
       ],
       "timeout": 15,
       "delay": 4.0,
-      "skip_rarity": []
+      "skip_rarity": [
+        "🔵"
+      ]
     }
   },
   "blocked_groups": [
