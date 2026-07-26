@@ -83,9 +83,7 @@
     },
     "8159586510": {
       "active": false,
-      "allowed_groups": [
-        -1003736243162
-      ],
+      "allowed_groups": [],
       "timeout": 15,
       "delay": 1.0,
       "skip_rarity": [
