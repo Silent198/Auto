@@ -47,7 +47,7 @@
         -1004351949164
       ],
       "timeout": 15,
-      "delay": 4.5,
+      "delay": 4.0,
       "skip_rarity": [
         "🔵",
         "🟣",
@@ -102,7 +102,7 @@
     },
     "6837560414": {
       "enabled": true,
-      "active": true,
+      "active": false,
       "allowed_groups": [
         -1003975831228,
         -1003820775782,
