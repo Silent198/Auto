@@ -119,7 +119,9 @@
     "8918103483": {
       "enabled": true,
       "active": true,
-      "allowed_groups": [],
+      "allowed_groups": [
+        -1004351949164
+      ],
       "timeout": 15,
       "delay": 1,
       "skip_rarity": [
