@@ -16,9 +16,6 @@
     "6837560414": {
       "session": "BQIEpbwAvLG_Hfy9aomfnutKfh1pSKpsTYe0DYEvlcYbDpEgL9KfBsFDXJlXEdJ7wixgo3ShK0dnKl9vGpcAuRtLjAyEEvw1VdqWORtFBsvtCC75QE1zwPKRfvJaxIN4RXntpaKA73AZJCLeZJOzIk2bMmLCdz8e4m7HzWYGvCKoKA86fGigZLlGAj9-ca54p0qxNqcn88TF49oHJ5nv-cpmdIuqa0kSKTsRwpXnBZ6RbGwb3aZWqpVOiwUj3QnEsMdH3G2T_K8yFCSFQbgYLh5wiv7GD5SkC7zfRliwsEeb2boEODocyq_-pstA_U0Vxjidusg9f7FBQYviab0-Ul72TsJ2DgAAAAGXjOReAA"
     },
-    "8633208949": {
-      "session": "BQIEpbwAY6MIBtJypBaEV0htjfaHlPaUEo-3kzsavvfPuAiS6F5Z1oi2X-q6zfST3S7P_F3EDrNAt-aun4tCAQKrzSVaSQq6JdBECPuPKCef7JN_KvuYiTbxutXvtMA9sYV6uOCQrsQdY0ZVSPIwkS5JFIvsZwIjBfuiFoIRwhn8IOoUcgIWopqss0o2L4-46A2PtorZ36n20UGUgD6y6-PhQs_KkzRRspOz7rH7QywbnkS0lX6FQc5eyYfny08BTuwI-WdxX2-a0m5Jw9NhpFrFnMVfa8kCR-SsZ91BmilSH0gb5iikTtc8hfaCm6dQ3gh1jd5uaIy6C5LlPBcPM_hRrcXXfwAAAAIClFB1AA"
-    },
     "8159586510": {
       "session": "BQIEpbwAdYWWXg719H4F6p4G9W7i6uaOBadYBKSQMTlnHdJm7CvBcsf094KIDUwgHw5mvIBGsvAGxe2qnVdJl9KLUMsHcOeeHbImcksz5ltO1mrq-7QH_bHDCSILmadIMO1dEykmHPVkorhYTshF7qNlEVKfjMwb97ZPLHgHHPHm3yyKN13nxC-dCJIQRc1BBQb5yernz1sgWHuyGc0ri9v3T9dcq7AmLuhmiOZyFPNIf4BELt6x1WCynTL__xfZaSFIsheGcDbxVxp4Spewvn2Z44XSOieqoa8u0D_pnhEHgolMa4xJnL4ob1HD6nrr4HMHHXX90YNmhzJPrNU7pH0KLDrX9gAAAAHmWWjOAA"
     },
@@ -67,24 +64,6 @@
         "🟠"
       ]
     },
-    "8633208949": {
-      "active": true,
-      "allowed_groups": [
-        -1004295330651,
-        -1004462068693,
-        -1004465060492,
-        -1004282067133,
-        -1004372314770
-      ],
-      "timeout": 15,
-      "delay": 3.0,
-      "skip_rarity": [
-        "🔵",
-        "🟠",
-        "🟣"
-      ],
-      "enabled": false
-    },
     "8159586510": {
       "active": false,
       "allowed_groups": [],
@@ -132,6 +111,14 @@
         "🟠",
         "🟡"
       ]
+    },
+    "8633208949": {
+      "enabled": true,
+      "active": true,
+      "allowed_groups": [],
+      "timeout": 15,
+      "delay": 1,
+      "skip_rarity": []
     }
   },
   "blocked_groups": [
