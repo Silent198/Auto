@@ -48,7 +48,7 @@
     },
     "6837560414": {
       "enabled": true,
-      "active": false,
+      "active": true,
       "allowed_groups": [
         -1003975831228,
         -1003820775782,
@@ -80,6 +80,14 @@
       ]
     },
     "8633208949": {
+      "enabled": true,
+      "active": true,
+      "allowed_groups": [],
+      "timeout": 15,
+      "delay": 1,
+      "skip_rarity": []
+    },
+    "5376101564": {
       "enabled": true,
       "active": true,
       "allowed_groups": [],
