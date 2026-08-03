@@ -48,14 +48,14 @@
     },
     "6837560414": {
       "enabled": true,
-      "active": false,
+      "active": true,
       "allowed_groups": [
         -1003975831228,
-        -1003820775782,
-        -1003796283643
+        -1003067509608,
+        -1001947407820
       ],
       "timeout": 15,
-      "delay": 3.0,
+      "delay": 0,
       "skip_rarity": [
         "🔵",
         "🟣"
